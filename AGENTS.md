@@ -8,7 +8,7 @@ POAI turns partner requests posted in Slack into WhatsApp replies that an accoun
 Stack: Next.js 15 (App Router), TypeScript, Tailwind, shadcn/ui, Supabase (Postgres + Auth), Groq, Vercel.
 
 ## Read in this order
-1. `context.md` — requirements, scope and design constraints
+1. `context.md` — requirements, scope and design constraints (original brief: `problem.txt`)
 2. `architecture.md` — how the pieces fit together
 3. `implementation-plan.md` — phases 1–11 and what each one covers
 4. `decision.md` — decisions already taken; don't reopen them without a reason
